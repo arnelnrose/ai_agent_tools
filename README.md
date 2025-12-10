@@ -18,14 +18,6 @@
 
 </div>
 
-<div align="center">
-
-**Follow Me on Facebook**
-
-[Follow me on Facebook](https://facebook.com/)
-
-</div>
-
 Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, and resources for developers and creators. Explore the best generative AI tools, LLMs, and AI-powered applications across various categories.
 
 ---
